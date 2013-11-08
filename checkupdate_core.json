@@ -1,0 +1,17 @@
+{
+   "app_version":"8.0.0.56452",
+   "branding":"oupeng_branding",
+   "channel_id":"3_1371_1371101_28_1",
+   "campaign":"oupenghoop",
+   "platform":"Android",
+   "platform_version":"4.0.4",
+   "cpu_arch": "armv6",
+   "cpu_max_freq": 1512000,
+   "cpu_core_num": 2,
+   "total_ram_size":797512,
+   "available_rom_size":16777216,
+   "available_sdcard_size":33554432,
+   "core_id":"",
+   "core_abi":"armeabi-v7a",
+   "upgrade_type":"manual"
+ }
